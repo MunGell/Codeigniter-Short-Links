@@ -11,6 +11,8 @@ More information about Codeigniter libraries available on [Codeigniter Documenta
 Usage
 -----
 
+First of all, create a `linker` table in your database. Take a look on `db` directory.
+
 There are two ways to load library to Codeigniter. Automatically within **./config/autoload.php** or directly in your controller by adding this line:  
 
 	$this->load->library('shortlinker');
@@ -19,7 +21,7 @@ Generate a shorten link:
 
 	$short_link = $this->shortlinker->getLink('http://ya.ru');
 	
-Alternatively, you can define you custom hash for the link (i.e. t.co/custom_value):
+Alternatively, you can define you custom hash for the link (i.e. `t.co/custom_value`):
 
 	$short_link = $this->shortlinker->getLink('http://ya.ru', 'custom_value');
 
