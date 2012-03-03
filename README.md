@@ -30,7 +30,7 @@ In addition there is sample "receiver" controller in the repository. Please refe
 Feedback
 --------
 
-Any other question are welcome [here](https://github.com/MunGell/Codeigniter-Short-Links/issues).
+Any other questions are welcome [here](https://github.com/MunGell/Codeigniter-Short-Links/issues).
 	
 Warning
 --------
