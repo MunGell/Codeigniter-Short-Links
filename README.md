@@ -35,4 +35,4 @@ Warning
 
 This library was extracted from one of my non-Codeigniter projects and was not tested in full in Codeigniter environment.
 
-Please, report to the issue tracker for any bugs you find in the library. Thank you.
+Please, report to the issue tracker for any bugs you find in the library. Thank you. 
